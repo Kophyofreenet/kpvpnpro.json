@@ -1,1 +1,190 @@
-# kpvpnpro.json
+{
+   "files": [    
+
+{
+         "name": "Ais-Play-01-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/AIS-PLAY-01.ovpn"
+      },
+
+
+{
+         "name": "Ais-Play-02-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/AIS-PLAY-02.ovpn"
+      },
+
+{
+         "name": "Ais-Play-03-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/AIS-PLAY-03.ovpn"
+      },
+      
+{
+         "name": "Ais-Play-04-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/AIS-PLAY-04.ovpn"
+      },
+
+{
+         "name": "Ais-Play-05-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/AIS-PLAY-05.ovpn"
+      },
+
+{
+         "name": "Ais-Play-06-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/AIS-PLAY-06.ovpn"
+      },
+
+{
+         "name": "Dtac-Go-01-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-GO-01.ovpn"
+      },
+
+{
+         "name": "Dtac-Go-02-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-GO-02.ovpn"
+      },
+
+{
+         "name": "Dtac-Go-03-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-GO-03.ovpn"
+      },
+
+{
+         "name": "Dtac-Happy-01-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-HAPPY-01.ovpn"
+      },
+
+{
+         "name": "Dtac-Happy-02-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-HAPPY-02.ovpn"
+      },
+
+{
+         "name": "Dtac-Happy-03-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-HAPPY-03.ovpn"
+      },
+
+{
+         "name": "Dtac-Happy-04-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-HAPPY-04.ovpn"
+      },
+
+{
+         "name": "Dtac-Happy-05-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-HAPPY-05.ovpn"
+      },
+
+{
+         "name": "Dtac-Happy-06-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-HAPPY-06.ovpn"
+      },
+
+{
+         "name": "Dtac-Lazada-01-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LAZADA-01.ovpn"
+      },
+
+{
+         "name": "Dtac-Lazada-02-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LAZADA-02.ovpn"
+      },
+
+{
+         "name": "Dtac-Lazada-03-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LAZADA-03.ovpn"
+      },
+
+{
+         "name": "Dtac-Lazada-04-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LAZADA-04.ovpn"
+      },
+
+{
+         "name": "Dtac-Lazada-05-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LAZADA-05.ovpn"
+      },
+
+{
+         "name": "Dtac-Lazada-06-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LAZADA-06.ovpn"
+      },
+
+{
+         "name": "Dtac-Line-01-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LINE-01.ovpn"
+      },
+
+{
+         "name": "Dtac-Line-02-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LINE-02.ovpn"
+      },
+
+{
+         "name": "Dtac-Line-03-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LINE-03.ovpn"
+      },
+
+{
+         "name": "Dtac-Line-04-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LINE-04.ovpn"
+      },
+
+{
+         "name": "Dtac-Line-05-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LINE-05.ovpn"
+      },
+
+{
+         "name": "Dtac-Line-06-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-LINE-06.ovpn"
+      },
+
+{
+         "name": "Dtac-Social-01-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-SOCIAL-01.ovpn"
+      },
+
+{
+         "name": "Dtac-Social-02-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-SOCIAL-02.ovpn"
+      },
+
+{
+         "name": "Dtac-Social-03-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/DTAC-SOCIAL-03.ovpn"
+      },
+
+{
+         "name": "True-Nopro-01-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/TRUE-NOPRO-01.ovpn"
+      },
+
+{
+         "name": "True-Nopro-02-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/TRUE-NOPRO-02.ovpn"
+      },
+
+{
+         "name": "True-Nopro-03-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/TRUE-NOPRO-03.ovpn"
+      },
+
+{
+         "name": "True-Nopro-04-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/TRUE-NOPRO-04.ovpn"
+      },
+
+{
+         "name": "True-Nopro-05-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/TRUE-NOPRO-05.ovpn"
+      },
+
+{
+         "name": "True-Nopro-06-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/kpvpnpro.json/main/TRUE-NOPRO-06.ovpn"
+      }
+
+
+   ],
+"message":"DTAC ALL PRO+AIS PLAY+TRUE NOPRO\n\n•30 November 2021\n\n•Version:1\n•Update\n\n•Config by Ko Phyo Freenet",
+   "title":"KP+VPN+PRO" ,
+   "version": 1
+}
